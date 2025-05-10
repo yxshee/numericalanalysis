@@ -67,19 +67,6 @@ a ──●────────────●──────────
 
 ---
 
-## 📂 Project Structure
-
-```
-numericalanalysis/
-├── algorithms/         # Core numerical methods
-├── examples/           # Usage examples and sample scripts
-├── tests/              # Unit tests
-├── LICENSE
-└── README.md
-```
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please open issues or submit pull requests for improvements, bug fixes, or new algorithms.
